@@ -62,10 +62,7 @@ bash
 npm install
 3. Создайте файл .env и добавьте туда токен
 TELEGRAM_BOT_TOKEN=ваш токен
-4. Получите токен бота у @BotFather и добавьте в .env:
-text
-TELEGRAM_BOT_TOKEN=токен
-5. Запустите бота:
+4. Запустите бота:
 bash
 npm run dev
 
